@@ -31,5 +31,9 @@ public class NetBankingservice
 		return "transfering"+amount+"from"+srcAcno+"to"+destAcno;
 
 	}
-
+	public void xyz()
+	{
+		
+	}
+	
 }
