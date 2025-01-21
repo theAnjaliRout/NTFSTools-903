@@ -13,7 +13,7 @@ public class NetBankingservice
 	{
 		return amount+" is withdrawn from the account number::"+acno;
 	}
-	
+	//dafafg
 	public String deposite(long acno,double amount)
 	{
 		return amount+" is deposited into thr account number::"+acno;
